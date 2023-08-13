@@ -762,6 +762,11 @@ header {
   text-align: center;
   margin: 47px 0 30px;
 }
+.feedback .feedback__opis {
+  background-image: url(../images/vector.svg);
+  background-repeat: no-repeat;
+  background-position: top;
+}
 .feedback p {
   color: #FFF;
   text-align: center;
